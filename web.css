@@ -1,0 +1,235 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.bg-container {
+    background-image: linear-gradient(to right, #ffffff, #d0f6f3);
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar-container {
+    display: flex;
+    align-items: center;
+
+}
+
+.shopify-name-container {
+    display: flex;
+    align-items: center;
+
+}
+
+.shopify-name {
+    font-size: 20px;
+    font-weight: 700px;
+
+
+}
+
+.navbar-image {
+    width: 30px;
+    height: 40px;
+
+}
+
+.nav-link {
+    font-size: 16px;
+    color: black;
+}
+
+.log-start-button-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.start-button {
+    color: #ffffff;
+    background-color: black;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+.monthly-year-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.monthly-year-text-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffffff;
+    margin-bottom: 15px;
+    border: 2px solid #14d0c5;
+    width: 400px;
+    border-radius: 10px;
+
+
+}
+
+.anchor-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.pay-monthly {
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    width: 160px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-right: 10px;
+
+}
+
+.pay-yearly {
+    font-size: 16px;
+    font-weight: 700;
+    padding-top: 10px;
+
+}
+
+.cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100vw;
+
+
+}
+
+.basic-card-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    border: 2px solid #14d0c5;
+    border-radius: 10px;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 30vw;
+    margin-right: 5px;
+    background-color: #ffffff;
+
+
+}
+
+.card-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    box-shadow: white;
+    border-radius: 10px;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 30vw;
+    margin-right: 5px;
+    background-color: #ffffff;
+
+}
+
+.heading {
+    font-family: 'Roboto';
+    font-size: 30px;
+    font-weight: 700;
+    padding-left: 40px;
+
+}
+
+.text-heading {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 700;
+    padding-left: 40px;
+
+}
+
+.paragraph {
+    font-family: 'Roboto';
+    font-size: 15px;
+    font-weight: 500;
+    padding-left: 40px;
+
+}
+
+
+
+.price-container {
+    display: flex;
+    align-items: center;
+    padding-left: 40px;
+
+
+}
+
+.price {
+    font-family: 'Roboto';
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.price-paragraph {
+    font-weight: 600;
+}
+
+.months-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #d0f6f3;
+
+}
+
+.months-paragraph {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 700;
+
+
+}
+
+.rupee {
+    padding-left: 2px;
+
+
+}
+
+.write-container {
+    display: flex;
+    align-items: center;
+    padding-left: 40px;
+
+}
+
+.right-mark {
+    padding-right: 15px;
+
+
+
+}
+
+.button {
+    background-color: black;
+    color: white;
+    font-weight: 700;
+    font-size: 16px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-radius: 15px;
+    width: 25vw;
+    margin-left: 40px;
+    margin-top: 20px;
+}
